@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Maps Creation</string>
-    <string name="google_map_api_key">AIzaSyCL94VvHAJWS1VjvIyCGiX7c_Q7M5GzJVg</string>
+    <string name="google_map_api_key">APIKEY</string>
 </resources>
